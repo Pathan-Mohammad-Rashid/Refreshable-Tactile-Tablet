@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and Description
-st.title("👁️ AI for Visual Accessibility")
+st.title("AI for Visual Accessibility")
 st.markdown("### Transform Images into Tactile Graphics")
 st.markdown("""
 This tool converts visual images into tactile patterns for visually impaired users 
